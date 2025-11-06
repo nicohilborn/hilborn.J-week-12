@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
   let toggled = false;
   toggleButton.addEventListener("click", () => {
     if (toggled) {
-      gallery.src = "./assests/img1.png";
+      gallery.src = "./assets/img1.png";
       toggled = false;
     } else {
-      gallery.src = "./assests/img2.png";
+      gallery.src = "./assets/img2.png";
       toggled = true;
     }
   });
