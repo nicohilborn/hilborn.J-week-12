@@ -22,9 +22,9 @@ header {
 .box {
   width: 100px;
   height: 100px;
-  background-color: red;
+  background-color: blue;
   margin: 40px auto;
-  border-radius: 20%;;
+  border-radius: 20%;
 }
  
  
